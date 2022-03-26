@@ -1,1 +1,1 @@
-The Vulnerability History Project
+<!-- The Vulnerability History Project -->
