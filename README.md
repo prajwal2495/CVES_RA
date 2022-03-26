@@ -1,5 +1,5 @@
 # The Vulverability History Project
-Austin Simmons, Prajwal Krishna, Paridhi Khandelwal
+Andy Menely, Prajwal Krishna, Paridhi Khandelwal
 
 ## Installation
 
