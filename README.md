@@ -23,6 +23,7 @@ pytorch
 pickle
 
 Clone the repository using:
+
 $git clone https://github.com/prajwal2495/CVES_RA.git
 
 
