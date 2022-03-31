@@ -1,5 +1,5 @@
 # The Vulverability History Project
-Andy Menely, Prajwal Krishna, Paridhi Khandelwal
+Andy Meneely, Prajwal Krishna, Paridhi Khandelwal
 
 This project is based on finding the similarities with the vulnerability id's and we are trying to experiment with Machine Learning techniques both classification and clustering techniques for now. This would help any software developer trying to find a solution for a bug as we would keep the similar vulnerabilties with the solution to be looked upon. The similarities are based on the description and the mistakes given in the data. 
 
